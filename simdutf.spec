@@ -1,9 +1,9 @@
-%define major 14
+%define major 25
 %define libname %mklibname simdutf
 %define devname %mklibname simdutf -d
 
 Name:		simdutf
-Version:	6.0.3
+Version:	7.3.0
 Release:	1
 Source0:	https://github.com/simdutf/simdutf/archive/refs/tags/v%{version}.tar.gz
 Summary:	Unicode (UTF8/UTF16/UTF32) and Base64 library using SIMD instructions
